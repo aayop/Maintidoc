@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+qdrant_data/
+data/raw_docs/
+data/photos/
+*.sqlite
+*.db
+mlruns/
+.ipynb_checkpoints/
