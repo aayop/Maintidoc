@@ -1,0 +1,7 @@
+timestamp,model,test,wall_s,load_s,prompt_tokens,gen_tokens,tok_per_s,peak_ollama_ram_gb,max_side,num_ctx
+2026-10-29T20:38:13,moondream,text_only,90.0,50.8,29,300,11.3,1.96,640,2048
+2026-10-29T20:39:21,moondream,describe,67.0,0.2,756,105,8.0,2.13,640,2048
+2026-10-29T20:39:25,moondream,leds,3.6,0.2,779,1,0.0,2.14,640,2048
+2026-10-29T20:45:24,granite3.2-vision,text_only,28.5,7.5,69,80,5.8,2.71,640,2048
+2026-10-29T20:50:38,granite3.2-vision,describe,313.9,0.1,2048,4,6.2,2.79,640,2048
+2026-10-29T20:53:31,granite3.2-vision,leds,172.1,0.6,2048,9,7.5,1.88,640,2048
